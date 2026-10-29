@@ -1,0 +1,52 @@
+{
+  "categories": {
+    "infra_redes_seguranca": {
+      "name": "Infraestrutura, Redes & Segurança",
+      "icon": "🌐",
+      "keywords": [
+        "rede", "redes", "network", "networking", "cisco", "ccna", "tcp/ip",
+        "active directory", "windows server", "linux", "ubuntu", "debian",
+        "segurança", "seguranca", "security", "cybersecurity", "cibersegurança",
+        "firewall", "dns", "dhcp", "cloud", "azure", "aws", "gcp",
+        "vpn", "wireshark", "virtualização", "vmware", "proxmox"
+      ]
+    },
+    "dev_devops": {
+      "name": "Desenvolvimento & DevOps",
+      "icon": "⚙️",
+      "keywords": [
+        "python", "powershell", "git", "github", "github actions", "ci/cd",
+        "docker", "containers", "kubernetes", "k8s", "automação", "automation",
+        "bash", "shell script", "ansible", "terraform", "devops", "fastapi"
+      ]
+    },
+    "backend_php": {
+      "name": "Desenvolvimento Backend com PHP",
+      "icon": "🐘",
+      "keywords": [
+        "php", "laravel", "symfony", "psr", "restful", "api rest", "apis",
+        "mysql", "postgresql", "sql", "clean code", "design patterns",
+        "composer", "eloquent", "mvc", "backend"
+      ]
+    },
+    "governanca_concursos": {
+      "name": "Governança de TI & Estudos para Concursos",
+      "icon": "🏛️",
+      "keywords": [
+        "cobit", "itil", "governança", "governanca", "governance", "lgpd",
+        "gestão de ti", "engenharia de software", "scrum", "kanban", "agile",
+        "pmbok", "cebraspe", "fgv", "concurso", "concursos ti"
+      ]
+    },
+    "mecanica_diagnostico": {
+      "name": "Mecânica & Diagnóstico Automotivo",
+      "icon": "🚗",
+      "keywords": [
+        "injeção eletrônica", "injecao eletronica", "diagnostico automotivo",
+        "diagnóstico automotivo", "obd2", "scanner automotivo", "vcds", "kkl",
+        "eletroeletrônica automotiva", "sensores automotivos", "osciloscópio automotivo",
+        "mecanica automotiva", "mecânica automotiva", "ecu", "chicote automotivo"
+      ]
+    }
+  }
+}
