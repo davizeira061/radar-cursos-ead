@@ -45,4 +45,4 @@ jobs:
           if ("${{ github.event.inputs.force }}" -eq "true") {
             $params["Force"] = $true
           }
-          ./scripts/Invoke-CourseRadar.ps1 @params
+          pwsh -File ./scripts/Invoke-CourseRadar.ps1 @params

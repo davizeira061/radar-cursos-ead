@@ -1,4 +1,22 @@
-{
-  "updated_at": "2026-10-28T00:00:00Z",
-  "seen_urls": []
+﻿{
+    "updated_at":  "2026-10-29T02:53:40Z",
+    "seen_urls":  [
+                      "https://learn.microsoft.com/pt-br/training/modules/experiment-azure-machine-learning/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/csharp-if-elseif-else/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/design-implement-azure-expressroute/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/purview-ai-secure-copilot/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/introduction-development-operations-principles-for-machine-learn/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/responsible-content-safety/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/manage-azure-kubernetes-service-azure-stack-hci/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/monitor-responses-events-azure-cosmos-db-sql-api/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/implement-windows-server-iaas-virtual-machine-network-security/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/share-knowledge-within-teams/?WT.mc_id=api_CatalogApi",
+                      "https://learn.microsoft.com/pt-br/training/modules/governance-guardrails-operations/?WT.mc_id=api_CatalogApi",
+                      "https://skillsforall.com/course/networking-basics",
+                      "https://skillsforall.com/course/cybersecurity-essentials",
+                      "https://skillsforall.com/course/python-essentials-1",
+                      "https://mooc.ifrs.edu.br/course/index.php?categoryid=11",
+                      "https://www.ev.org.br/cursos/modelagem-de-dados"
+                  ]
 }

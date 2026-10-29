@@ -1,0 +1,172 @@
+﻿[
+    {
+        "title":  "Experimente com o Azure Machine Learning",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/experiment-azure-machine-learning/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Escolha este módulo se quiser comparar modelos usando o machine learning automatizado, o MLflow e o painel de IA Responsável.",
+        "badge":  "65 min | beginner"
+    },
+    {
+        "title":  "Adicionar lógica de decisão ao código em C#",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/csharp-if-elseif-else/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "mecanica_diagnostico",
+        "category_name":  "Mecânica \u0026 Diagnóstico Automotivo",
+        "category_icon":  "🚗",
+        "summary":  "Saiba como ramificar o caminho de execução de seu código avaliando expressões boolianas.",
+        "badge":  "43 min | beginner"
+    },
+    {
+        "title":  "Projetar e implementar o Azure ExpressRoute",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/design-implement-azure-expressroute/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Você aprenderá a projetar e implementar o ExpressRoute do Azure, o Alcance Global do ExpressRoute, o ExpressRoute FastPath.",
+        "badge":  "57 min | intermediate"
+    },
+    {
+        "title":  "Proteger as interações do Microsoft 365 Copilot com o Microsoft Purview",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/purview-ai-secure-copilot/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Ferramentas de IA como o Microsoft 365 Copilot criam novas maneiras de interagir com dados confidenciais, mas também introduzem novos riscos. Saiba como o Microsoft Purview ajuda você a aplicar controles de segurança e c...",
+        "badge":  "54 min | intermediate"
+    },
+    {
+        "title":  "Introdução aos princípios de DevOps para aprendizado de máquina",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/introduction-development-operations-principles-for-machine-learn/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "dev_devops",
+        "category_name":  "Desenvolvimento \u0026 DevOps",
+        "category_icon":  "⚙️",
+        "summary":  "Saiba mais sobre o DevOps para machine learning, operações de machine learning e MLOps.",
+        "badge":  "33 min | beginner"
+    },
+    {
+        "title":  "Usar a IA com responsabilidade com a Segurança de Conteúdo do Microsoft Foundry",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/responsible-content-safety/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "À medida que a quantidade de conteúdo online gerado pelo usuário aumenta, também aumenta a necessidade de garantir que o material prejudicial seja moderado com eficácia. O recurso de Segurança de Conteúdo do Microsoft Fo...",
+        "badge":  "70 min | intermediate"
+    },
+    {
+        "title":  "Monitorar máquinas virtuais IaaS do Windows Server e instâncias híbridas",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Saiba como monitorar Windows Server VMs iaaS e instâncias híbridas usando Azure Monitor, Log Analytics workspaces, o Dependency Agent para mapas de serviço e a integração com Microsoft Operations Manager.",
+        "badge":  "46 min | intermediate"
+    },
+    {
+        "title":  "Gerenciar Serviço de Kubernetes do Azure em Azure Local",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/manage-azure-kubernetes-service-azure-stack-hci/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Prepare, implante, acesse e opere clusters AKS em implantações hiperconvergadas do Azure Local.",
+        "badge":  "66 min | intermediate"
+    },
+    {
+        "title":  "Monitorar respostas e eventos no Azure Cosmos DB for NoSQL",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/monitor-responses-events-azure-cosmos-db-sql-api/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Aprenderemos a usar um conjunto avançado de códigos de resposta REST retornados pela solicitação do Azure Cosmos DB para ajudá-lo a analisar possíveis problemas.",
+        "badge":  "51 min | intermediate"
+    },
+    {
+        "title":  "Implementar a segurança de rede de VMs IaaS do Windows Server",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/implement-windows-server-iaas-virtual-machine-network-security/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Saiba como implementar a segurança de rede para Windows Server VMs IaaS usando NSGs (grupos de segurança de rede), Firewall do Azure, firewall de Windows Defender e Observador de Rede do Azure para captura de tráfego e r...",
+        "badge":  "64 min | intermediate"
+    },
+    {
+        "title":  "Compartilhar conhecimento dentro das equipes",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/share-knowledge-within-teams/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Saiba como compartilhar conhecimento efetivamente em equipes de desenvolvimento usando o Wikis do Azure DevOps, a documentação do GitHub e a integração do Microsoft Teams. Explore estratégias de documentação, criação e g...",
+        "badge":  "65 min | advanced"
+    },
+    {
+        "title":  "Governança, proteções e operações",
+        "url":  "https://learn.microsoft.com/pt-br/training/modules/governance-guardrails-operations/?WT.mc_id=api_CatalogApi",
+        "source":  "Microsoft Learn (Oficial Gratuito)",
+        "category_id":  "infra_redes_seguranca",
+        "category_name":  "Infraestrutura, Redes \u0026 Segurança",
+        "category_icon":  "🌐",
+        "summary":  "Os sistemas de agente devem operar dentro de estruturas de governança claras para garantir a segurança, a conformidade e a responsabilidade. No ecossistema GitHub, a governança é imposta por meio de controles de repositó...",
+        "badge":  "45 min | intermediate"
+    },
+    {
+        "category_icon":  "[Redes]",
+        "title":  "Cisco Networking Basics \u0026 Redes de Computadores",
+        "url":  "https://skillsforall.com/course/networking-basics",
+        "source":  "Cisco Skills For All",
+        "badge":  "Certificado Oficial Cisco",
+        "summary":  "Fundamentos essenciais de redes, arquitetura TCP/IP, roteadores, switches e enderecamento IP.",
+        "category_name":  "Infraestrutura, Redes \u0026 Seguranca",
+        "category_id":  "infra_redes_seguranca"
+    },
+    {
+        "category_icon":  "[Seguranca]",
+        "title":  "Cisco Cybersecurity Essentials",
+        "url":  "https://skillsforall.com/course/cybersecurity-essentials",
+        "source":  "Cisco Skills For All",
+        "badge":  "Certificado Oficial Cisco",
+        "summary":  "Conceitos fundamentais de seguranca, taticas de defesa, ameacas ciberneticas e boas praticas.",
+        "category_name":  "Infraestrutura, Redes \u0026 Seguranca",
+        "category_id":  "infra_redes_seguranca"
+    },
+    {
+        "category_icon":  "[Dev]",
+        "title":  "Python Essentials 1 (Cisco / Python Institute)",
+        "url":  "https://skillsforall.com/course/python-essentials-1",
+        "source":  "Cisco Skills For All",
+        "badge":  "Certificado Oficial Cisco",
+        "summary":  "Preparatorio oficial OpenEDG para a certificacao PCEP (Certified Entry-Level Python Programmer).",
+        "category_name":  "Desenvolvimento \u0026 DevOps",
+        "category_id":  "dev_devops"
+    },
+    {
+        "category_icon":  "[Auto]",
+        "title":  "Eletricidade Basica Automotiva e Circuitos",
+        "url":  "https://mooc.ifrs.edu.br/course/index.php?categoryid=11",
+        "source":  "IFRS MOOC (Instituto Federal)",
+        "badge":  "Certificado Gratuito MEC",
+        "summary":  "Conceitos de grandezas eletricas, circuitos, fusiveis, reles e leitura de esquemas eletricos.",
+        "category_name":  "Mecanica \u0026 Diagnostico Automotivo",
+        "category_id":  "mecanica_diagnostico"
+    },
+    {
+        "category_icon":  "[PHP/SQL]",
+        "title":  "Modelagem de Dados e Bancos Relacionais SQL",
+        "url":  "https://www.ev.org.br/cursos/modelagem-de-dados",
+        "source":  "Fundacao Bradesco - Escola Virtual",
+        "badge":  "Certificado Fundacao Bradesco",
+        "summary":  "Diagrama de entidade-relacionamento (DER), normalizacao, chaves e fundamentos de SQL.",
+        "category_name":  "Desenvolvimento Backend com PHP",
+        "category_id":  "backend_php"
+    }
+]
